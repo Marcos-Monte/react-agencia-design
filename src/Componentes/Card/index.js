@@ -5,7 +5,7 @@ import './style.css';
 const Card = () => {
     return (
         <div>
-            Card
+            Card zica
         </div>
     )
 }
