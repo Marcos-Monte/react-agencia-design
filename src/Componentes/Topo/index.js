@@ -1,17 +1,21 @@
 import React from 'react';
 
+import Logotipo from '../../assets/logo.png';
+import BotaoLua from '../../assets/moon.png';
+// import BotaoSol from '../../assets/sun.png';
+
 import './style.css';
 
 const Topo = () => {
     return (
-        <div>
+        <header>
             <div className="largura-tela">
-                <img src="assets\logo.png" alt="Logotipo" />
+                <img src={Logotipo} alt="Logotipo" />
                 <button>
-                    <img src="assets\moon.png" alt="Logotipo" />
+                    <img src={BotaoLua} alt="Logotipo" />
                 </button>
             </div>
-        </div>
+        </header>
     )
 }
 

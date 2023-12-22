@@ -25,10 +25,10 @@ Clicando novamente no botão, a página retorna para seu estado original (light 
 ## Layouts
 
 #### Light Mode
-<img src="public\assets\layout-das-telas\layout-da-pagina-tema-claro.png"/>
+<img src="public\layout-das-telas\layout-da-pagina-tema-claro.png"/>
 
 #### Dark Mode
-<img src="public\assets\layout-das-telas\layout-da-pagina-tema-escuro.png"/>
+<img src="public\layout-das-telas\layout-da-pagina-tema-escuro.png"/>
 
 # Getting Started with Create React App
 
