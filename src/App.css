@@ -1,0 +1,33 @@
+/* Default */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.largura-tela {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+/* Estilos e Fontes: Claro e Escuro */
+.light {
+    --fundo-rodape: #fff;
+    --cor-titulo-banner: #022144;
+    --fundo-banner: #fafbfc;
+    --cor-titulo-experiencias: #32333c;
+    --cor-texto-comum: #8a8fa3;
+    --fundo-experiencias: #f6f8fc;
+    --cor-destaque: #fec633;
+}
+
+.dark {
+    --fundo-rodape: #252525;
+    --cor-titulo-banner: #022144;
+    --fundo-banner: #fafbfc;
+    --cor-titulo-experiencias: #CCCCCC;
+    --cor-texto-comum: #9f9f9f;
+    --fundo-experiencias: #383838;
+    --cor-destaque: #fec633;
+}
