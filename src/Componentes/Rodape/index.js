@@ -48,7 +48,7 @@ const Rodape = () => {
                 </div>
 
                 <p className="rodape-assinatura">
-                    Copyright 2022 <a href="https://www.linkedin.com/in/montemarcos/">Marcos Monte</a>
+                    Copyright 2023 © <a href="https://www.linkedin.com/in/montemarcos/">Marcos Monte</a>
                 </p>
 
             </div>
