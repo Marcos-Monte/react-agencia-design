@@ -1,0 +1,37 @@
+.rodape {
+    text-align: center;
+    padding-top: 5em;
+    background-color: var(--fundo-rodape-topo);
+}
+
+.rodape-paragrafo {
+    margin: 2em auto;
+    width: 50%;
+    font-size: 14px;
+    line-height: 1.6em;
+    color: var(--cor-texto-comum);
+}
+
+.rodape-redes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .5em;
+}
+
+.rede img {
+    width: 30px;
+}
+
+.rodape-assinatura {
+    padding: 1em 0;
+    margin-top: 3em;
+    font-size: 14px;
+    color: var(--cor-texto-comum);
+}
+
+.rodape-assinatura a {
+    text-decoration: none;
+    color: var(--cor-destaque);
+    font-weight: bold;
+}
