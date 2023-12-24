@@ -35,3 +35,11 @@
     color: var(--cor-destaque);
     font-weight: bold;
 }
+
+/* Queries */
+@media screen and (max-width: 400px) {
+    .rodape-paragrafo {
+        width: 100%;
+        padding: 0 1em;
+    }
+}

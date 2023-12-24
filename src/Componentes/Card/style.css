@@ -5,6 +5,8 @@
     padding: 4em 1.5em;
     gap: .5em;
     border: .1em solid rgb(236, 234, 234);
+    width: calc(100% / 3);
+    height: 100%;
 }
 
 .card-subtitulo {
@@ -20,4 +22,18 @@
 .card:hover {
     background-color: var(--cor-destaque);
     transition: 1s;
+}
+
+/* QUeries */
+@media screen and (max-width: 983px) {
+    .card {
+        height: 400px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .card {
+        width: 100%;
+        height: auto;
+    }
 }

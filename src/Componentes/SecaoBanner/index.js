@@ -8,7 +8,7 @@ const SecaoBanner = () => {
     return (
         <section className="banner">
 
-            <img src={ImagemBanner} alt="Deginer" />
+            <img className="banner-imagem" src={ImagemBanner} alt="Deginer" />
 
             <div className="banner-conteudo">
 

@@ -7,6 +7,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
+body {
+    min-width: 280px;
+}
+
 .largura-tela {
     max-width: 1024px;
     margin: 0 auto;
