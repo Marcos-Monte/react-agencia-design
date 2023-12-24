@@ -7,7 +7,7 @@
 
 .experiencia-titulo {
     color: var(--cor-titulo-experiencias);
-
+    font-size: 26px;
 }
 
 .experiencia-paragrafo {
@@ -23,7 +23,6 @@
 }
 
 .titulo-destaque {
-    font-size: 26px;
     position: relative;
     width: 100%;
     padding-bottom: 1em;

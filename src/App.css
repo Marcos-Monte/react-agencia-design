@@ -25,6 +25,7 @@ body {
     --cor-texto-comum: #8a8fa3;
     --fundo-experiencias: #f6f8fc;
     --cor-destaque: #fec633;
+    --borda-botao: #747272;
 }
 
 .dark {
@@ -35,4 +36,5 @@ body {
     --cor-texto-comum: #9f9f9f;
     --fundo-experiencias: #383838;
     --cor-destaque: #fec633;
+    --borda-botao: #fff;
 }

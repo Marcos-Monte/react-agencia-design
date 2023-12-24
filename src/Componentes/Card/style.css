@@ -4,7 +4,7 @@
     flex-direction: column;
     padding: 4em 1.5em;
     gap: .5em;
-    border: .1em solid rgb(236, 234, 234);
+    border: .1em solid #edecec;
     width: calc(100% / 3);
     height: 100%;
 }

@@ -3,6 +3,7 @@
     justify-content: center;
     width: 100%;
     height: auto;
+    background-color: var(--fundo-rodape-topo);
 }
 
 .banner-imagem,
@@ -17,7 +18,7 @@
     align-items: flex-start;
     justify-content: center;
     background-color: var(--fundo-banner);
-    padding: 1em;
+    padding: 0 1em;
 }
 
 .banner-conteudo-estilizado {
@@ -29,8 +30,8 @@
 .banner-conteudo-titulo {
     color: var(--cor-titulo-banner);
     font-weight: 500;
-    font-size: 40px;
-    width: 450px;
+    font-size: 32px;
+    width: 350px;
 }
 
 .conteudo-destaque {
@@ -38,13 +39,6 @@
 }
 
 /* Queries */
-@media screen and (max-width: 932px) {
-    .banner-conteudo-titulo {
-        width: 300px;
-        font-size: 28px
-    }
-
-}
 
 @media screen and (max-width: 784px) {
     .banner-imagem {
