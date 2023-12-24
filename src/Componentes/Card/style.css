@@ -1,0 +1,16 @@
+.card {
+    text-align: start;
+    display: flex;
+    flex-direction: column;
+    padding: 4em 1.5em;
+    gap: .5em;
+    border: .1em solid rgb(236, 234, 234);
+}
+
+.card-subtitulo {
+    font-size: 14px;
+}
+
+.card-descricao {
+    margin: 1em 0;
+}

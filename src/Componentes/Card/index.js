@@ -5,10 +5,10 @@ import './style.css';
 const Card = (props) => {
     return (
         <div className="card">
-            <p>{props.data}</p>
-            <h3>{props.titulo}</h3>
-            <p>{props.subtitulo}</p>
-            <p>{props.descricao}</p>
+            <p className="card-data">{props.data}</p>
+            <h3 className="experiencia-titulo">{props.titulo}</h3>
+            <p className="card-subtitulo">{props.subtitulo}</p>
+            <p className="card-descricao">{props.descricao}</p>
         </div>
     )
 }
