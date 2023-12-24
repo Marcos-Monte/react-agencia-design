@@ -14,3 +14,10 @@
 .card-descricao {
     margin: 1em 0;
 }
+
+/* Hover */
+
+.card:hover {
+    background-color: var(--cor-destaque);
+    transition: 1s;
+}
