@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
 }
 
 .largura-tela {
@@ -13,7 +14,7 @@
 
 /* Estilos e Fontes: Claro e Escuro */
 .light {
-    --fundo-rodape: #fff;
+    --fundo-rodape-topo: #fff;
     --cor-titulo-banner: #022144;
     --fundo-banner: #fafbfc;
     --cor-titulo-experiencias: #32333c;
@@ -23,7 +24,7 @@
 }
 
 .dark {
-    --fundo-rodape: #252525;
+    --fundo-rodape-topo: #252525;
     --cor-titulo-banner: #022144;
     --fundo-banner: #fafbfc;
     --cor-titulo-experiencias: #CCCCCC;
